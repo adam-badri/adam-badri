@@ -151,7 +151,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Premiere Pro</span>
       </div>
-      <h3 style="margin-top: 10px; margin-bottom: 10px; color: #f9fafb;">🛠️ security</h2>
+      <h3 style="margin-top: 10px; margin-bottom: 10px; color: #f9fafb;">💻 Security</h2>
       <!-- Security tools (emoji, but same visual size) -->
       <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
         <span style="font-size:32px;line-height:1;">🛰️</span>
@@ -168,6 +168,14 @@
       <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
         <span style="font-size:32px;line-height:1;">💣</span>
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Metasploit</span>
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <span style="font-size:32px;line-height:1;">🕷️</span>
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">SpiderFoot</span>
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <span style="font-size:32px;line-height:1;">🇷</span>
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Recon-ng</span>
       </div>
     </div>
   </div>
