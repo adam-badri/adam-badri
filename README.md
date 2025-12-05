@@ -219,8 +219,8 @@
   <div style="margin-bottom: 24px;">
     <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">🧠 Soft Skills &amp; Languages</h2>
     <ul style="margin-top: 8px; padding-left: 20px; color: #9ca3af; font-size: 0.95rem; line-height: 1.6;">
-      <li><strong>Soft skills:</strong> Brilliant coder, team player, level-headed, hard worker, fast learner.</li>
-      <li><strong>Languages I speak:</strong> German, English, French, Arabic.</li>
+      <li><strong>Soft skills:</strong> Brilliant coder, team player, level-headed, hard worker, fast learner, top communicator.</li>
+      <li><strong>Languages I speak:</strong> Arabic, French, German, English.</li>
     </ul>
   </div>
 
