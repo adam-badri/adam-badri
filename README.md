@@ -13,7 +13,7 @@
 
 <div style="margin-top: 18px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
     <a href="https://github.com/adam-badri" style="text-decoration: none; padding: 10px 18px; border-radius: 999px; background: linear-gradient(135deg,#6366f1,#ec4899); color: #f9fafb; font-weight: 500; font-size: 0.95rem;">
-    View My Repos  
+    View My Repos &nbsp;&nbsp; 
     </a>
     <a href="mailto:mohamed.adam.badri@gmail.com" style="text-decoration: none; padding: 10px 18px; border-radius: 999px; border: 1px solid #374151; color: #e5e7eb; font-weight: 500; font-size: 0.95rem;">
     Contact Me
