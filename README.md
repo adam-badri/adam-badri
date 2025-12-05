@@ -5,17 +5,17 @@
   <div style="text-align: center; margin-bottom: 32px;">
     <h1 style="font-size: 2.4rem; margin: 0; color: #f9fafb;">Hi, I'm <span style="background: linear-gradient(135deg,#6366f1,#ec4899); -webkit-background-clip: text; color: transparent;">YOUR_NAME</span> 👋</h1>
     <p style="margin-top: 8px; font-size: 1.05rem; color: #9ca3af;">
-      Computer Science Student • Cybersecurity Enthusiast • Machine Learning Explorer
+      **Computer Science Student • Cybersecurity Enthusiast • Machine Learning Explorer**
     </p>
     <p style="margin-top: 4px; font-size: 0.95rem; color: #6b7280;">
       I build small, focused projects in security, machine learning, and algorithms to learn by doing.
     </p>
 
     <div style="margin-top: 18px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-      <a href="https://github.com/YOUR_USERNAME" style="text-decoration: none; padding: 10px 18px; border-radius: 999px; background: linear-gradient(135deg,#6366f1,#ec4899); color: #f9fafb; font-weight: 500; font-size: 0.95rem;">
+      <a href="https://github.com/adam-badri" style="text-decoration: none; padding: 10px 18px; border-radius: 999px; background: linear-gradient(135deg,#6366f1,#ec4899); color: #f9fafb; font-weight: 500; font-size: 0.95rem;">
         View My Repos
       </a>
-      <a href="mailto:your@email.com" style="text-decoration: none; padding: 10px 18px; border-radius: 999px; border: 1px solid #374151; color: #e5e7eb; font-weight: 500; font-size: 0.95rem;">
+      <a href="mailto:mohamed.adam.badri@gmail.com" style="text-decoration: none; padding: 10px 18px; border-radius: 999px; border: 1px solid #374151; color: #e5e7eb; font-weight: 500; font-size: 0.95rem;">
         Contact Me
       </a>
     </div>
