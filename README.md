@@ -222,6 +222,7 @@
     <ul style="margin-top: 8px; padding-left: 20px; color: #9ca3af; font-size: 0.95rem; line-height: 1.6;">
       <li><strong>Vice-President – Club GmcX Informatique</strong> (Nabeul): coordinated training events, hackathons, and communication campaigns for students.</li>
       <li><strong>Pianist – Sammai Conservatory Orchestra:</strong> live &amp; studio performances (Jazz, Blues, fusion) and experience with audio recording tools.</li>
+      <li><strong>Guitarist</strong> live &amp; studio performances and experience with audio recording tools.</li>
       <li><strong>Karate 1er DAN Shotokan:</strong> discipline, focus, and resilience from years of martial arts training.</li>
     </ul>
   </div>
@@ -230,8 +231,8 @@
   <div style="margin-bottom: 24px;">
     <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">📊 GitHub Stats</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=adam-badri&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%; border-radius: 12px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-badri&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; border-radius: 12px;">
+        <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=adam-badri&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%; border-radius: 12px;">
+        <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=adam-badri&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; border-radius: 12px;">
     </div>
   </div>
 
