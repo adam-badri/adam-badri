@@ -1,12 +1,14 @@
 
+#   Adam Badri
+
 <div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #e5e7eb; background: radial-gradient(circle at top, #111827 0, #020617 55%); padding: 32px 24px; border-radius: 24px; border: 1px solid #1f2937; max-width: 980px; margin: 0 auto;">
 
   <!-- Hero -->
   <div style="text-align: center; margin-bottom: 32px;">
-    <h1 style="font-size: 2.4rem; margin: 0; color: #f9fafb;">Hi, I'm <span style="background: linear-gradient(135deg,#6366f1,#ec4899); -webkit-background-clip: text; color: transparent;">YOUR_NAME</span> 👋</h1>
-    <p style="margin-top: 8px; font-size: 1.05rem; color: #9ca3af;">
-      **Computer Science Student • Cybersecurity Enthusiast • Machine Learning Explorer**
-    </p>
+    <h1 style="font-size: 2.4rem; margin: 0; color: #f9fafb;">Hi, I'm <span style="background: linear-gradient(135deg,#6366f1,#ec4899); -webkit-background-clip: text; color: transparent;">Adam Badri</span> 👋</h1>
+    
+    **`Computer Science Student • Cybersecurity Enthusiast • Machine Learning Explorer`**
+    
     <p style="margin-top: 4px; font-size: 0.95rem; color: #6b7280;">
       I build small, focused projects in security, machine learning, and algorithms to learn by doing.
     </p>
