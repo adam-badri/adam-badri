@@ -21,107 +21,147 @@
 </div>
 </div>
 
-  <!-- About -->
+ <!-- About -->
   <div style="margin-bottom: 28px;">
     <h2 style="font-size: 1.6rem; margin-bottom: 8px; color: #f9fafb;">🚀 About Me</h2>
     <p style="font-size: 0.96rem; color: #d1d5db; line-height: 1.6;">
-      I'm a computer science student focusing on <strong>cybersecurity</strong>, <strong>machine learning</strong>,
-      and <strong>systems programming</strong>. On this GitHub profile, I:
+      I'm a computer science student at the Technical University of Berlin, focused on
+      <strong>cybersecurity</strong>, <strong>ethical hacking</strong>, and <strong>machine learning</strong>.
+      I'm currently training as an <strong>ethical hacker</strong> (offensive security, CTFs, and penetration
+      testing labs) while strengthening my foundations in algorithms and systems.
     </p>
     <ul style="margin-top: 8px; padding-left: 20px; color: #9ca3af; font-size: 0.95rem; line-height: 1.6;">
-      <li>Build small tools like port scanners, packet sniffers, and hash crackers to understand security basics.</li>
-      <li>Experiment with ML models such as malware classifiers and phishing URL detectors.</li>
-      <li>Practice algorithms &amp; data structures in Python, C/C++, and other languages.</li>
-      <li>Use GitHub as a portfolio of my learning, progress, and side projects.</li>
+      <li>Expanding my understanding of cyber security alongside my CS studies.</li>
+      <li>Building tools like port scanners, packet sniffers, and hash crackers to learn security from the ground up.</li>
+      <li>Experimenting with ML models for malware classification, phishing URL detection, and anomaly detection.</li>
+      <li>Using GitHub as a portfolio to showcase real, hands-on projects and my learning journey.</li>
+    </ul>
+  </div>
+
+  <!-- Education & Qualifications -->
+  <div style="margin-bottom: 24px;">
+    <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">🎓 Education &amp; Qualifications</h2>
+    <ul style="margin-top: 8px; padding-left: 20px; color: #9ca3af; font-size: 0.95rem; line-height: 1.6;">
+      <li><strong>B.Sc. Computer Science</strong> – TU Berlin (ongoing)</li>
+      <li><strong>DSH-2</strong> – German language certificate, TH Wildau</li>
+      <li><strong>High School Graduation (Technology section, excellent)</strong> – Lycée Pilote des Élites de Nabeul</li>
+      <li><strong>1er DAN Karate Shotokan</strong> – Tunisian Federation of Karate</li>
     </ul>
   </div>
 
   <!-- Tech Stack: Languages -->
   <div style="margin-bottom: 24px;">
-    <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">💻 Languages</h2>
+    <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">💻 Programming Languages</h2>
     <p style="font-size: 0.9rem; color: #9ca3af; margin-bottom: 10px;">
-      These are the languages I use most often:
+      These are the languages I work with regularly:
     </p>
     <div style="display: flex; flex-wrap: wrap; gap: 18px; align-items: center;">
       <!-- Python -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 70px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Python</span>
       </div>
       <!-- C -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 70px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">C</span>
       </div>
       <!-- C++ -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 70px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">C++</span>
       </div>
       <!-- Java -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 70px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Java</span>
       </div>
-      <!-- Haskell -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 70px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" style="width: 40px; height: 40px;">
-        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Haskell</span>
+      <!-- HTML -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width:48px;height:48px;object-fit:contain;">
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">HTML</span>
       </div>
-      <!-- Bash -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 70px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width: 40px; height: 40px;">
-        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Bash</span>
+      <!-- CSS -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width:48px;height:48px;object-fit:contain;">
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">CSS</span>
+      </div>
+      <!-- MySQL -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="width:48px;height:48px;object-fit:contain;">
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">MySQL</span>
+      </div>
+      <!-- Assembly (text-based) -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <span style="font-size:32px;line-height:1;">&lt;/&gt;</span>
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Assembly</span>
       </div>
     </div>
   </div>
 
-  <!-- Tech Stack: Tools & Technologies -->
+  <!-- Tools & Technologies -->
   <div style="margin-bottom: 24px;">
     <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">🛠️ Tools &amp; Technologies</h2>
     <p style="font-size: 0.9rem; color: #9ca3af; margin-bottom: 10px;">
-      Tools I use frequently in development, security, and data work:
+      Tools I use frequently for development, security, and creative work:
     </p>
     <div style="display: flex; flex-wrap: wrap; gap: 18px; align-items: center;">
       <!-- Linux -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Linux</span>
       </div>
       <!-- Git -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Git</span>
       </div>
       <!-- Docker -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Docker</span>
       </div>
       <!-- VS Code -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">VS Code</span>
       </div>
-      <!-- Nmap (using simple icon from devicon-like source is hard; keep generic security icon text-based) -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-        <span style="font-size: 2rem;">🛰️</span>
-        <span style="margin-top: 4px; font-size: 0.75rem; color: #e5e7eb;">nmap</span>
+      <!-- IntelliJ IDEA -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" style="width:48px;height:48px;object-fit:contain;">
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">IntelliJ</span>
       </div>
-      <!-- Wireshark -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-        <span style="font-size: 2rem;">🦈</span>
-        <span style="margin-top: 4px; font-size: 0.75rem; color: #e5e7eb;">Wireshark</span>
+      <!-- Photoshop -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" style="width:48px;height:48px;object-fit:contain;">
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Photoshop</span>
       </div>
-      <!-- Burp Suite -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-        <span style="font-size: 2rem;">🛡️</span>
-        <span style="margin-top: 4px; font-size: 0.75rem; color: #e5e7eb;">Burp Suite</span>
+      <!-- Illustrator -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" style="width:48px;height:48px;object-fit:contain;">
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Illustrator</span>
       </div>
-      <!-- Metasploit -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-        <span style="font-size: 2rem;">💣</span>
-        <span style="margin-top: 4px; font-size: 0.75rem; color: #e5e7eb;">Metasploit</span>
+      <!-- Premiere Pro -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" style="width:48px;height:48px;object-fit:contain;">
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Premiere Pro</span>
+      </div>
+      <!-- Security tools (emoji, but same visual size) -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <span style="font-size:32px;line-height:1;">🛰️</span>
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">nmap</span>
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <span style="font-size:32px;line-height:1;">🦈</span>
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Wireshark</span>
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <span style="font-size:32px;line-height:1;">🛡️</span>
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Burp Suite</span>
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <span style="font-size:32px;line-height:1;">💣</span>
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Metasploit</span>
       </div>
     </div>
   </div>
@@ -134,40 +174,49 @@
     </p>
     <div style="display: flex; flex-wrap: wrap; gap: 18px; align-items: center;">
       <!-- PyTorch -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 90px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">PyTorch</span>
       </div>
       <!-- TensorFlow -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 90px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">TensorFlow</span>
       </div>
       <!-- scikit-learn -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 90px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">scikit-learn</span>
       </div>
       <!-- NumPy -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 90px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">NumPy</span>
       </div>
       <!-- Pandas -->
-      <div style="display: flex; flex-direction: column; align-items: center; width: 90px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 40px; height: 40px;">
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Pandas</span>
       </div>
     </div>
   </div>
 
-  <!-- Projects -->
+  <!-- Soft Skills & Spoken Languages -->
   <div style="margin-bottom: 24px;">
-    <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">📂 Featured Project Types</h2>
+    <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">🧠 Soft Skills &amp; Languages</h2>
     <ul style="margin-top: 8px; padding-left: 20px; color: #9ca3af; font-size: 0.95rem; line-height: 1.6;">
-      <li><strong>Cybersecurity:</strong> Port scanners, packet sniffers, simple IDS, hash crackers.</li>
-      <li><strong>ML for Security:</strong> Malware classification, phishing URL detection, anomaly detection.</li>
-      <li><strong>Algorithms:</strong> Dynamic programming, graph algorithms, SAT/logic experiments.</li>
+      <li><strong>Soft skills:</strong> Brilliant coder, team player, level-headed, hard worker, fast learner.</li>
+      <li><strong>Languages I speak:</strong> German, English, French, Arabic.</li>
+    </ul>
+  </div>
+
+  <!-- Activities & Interests -->
+  <div style="margin-bottom: 24px;">
+    <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: #f9fafb;">🎵 Activities &amp; Interests</h2>
+    <ul style="margin-top: 8px; padding-left: 20px; color: #9ca3af; font-size: 0.95rem; line-height: 1.6;">
+      <li><strong>Vice-President – Club GmcX Informatique</strong> (Nabeul): coordinated training events, hackathons, and communication campaigns for students.</li>
+      <li><strong>Pianist – Sammai Conservatory Orchestra:</strong> live &amp; studio performances (Jazz, Blues, fusion) and experience with audio recording tools.</li>
+      <li><strong>Karate 1er DAN Shotokan:</strong> discipline, focus, and resilience from years of martial arts training.</li>
     </ul>
   </div>
 
@@ -194,3 +243,4 @@
       Built using Markdown &amp; HTML
     </div>
   </div>
+</div>
