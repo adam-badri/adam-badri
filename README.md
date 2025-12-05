@@ -96,6 +96,11 @@
         <span style="font-size:32px;line-height:1;">&lt;/&gt;</span>
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Assembly</span>
       </div>
+      <!-- Haskell -->
+      <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
+        <span style="font-size:32px;line-height:1;">&lt;/&gt;</span>
+        <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Haskell</span>
+      </div>
     </div>
   </div>
 
@@ -146,6 +151,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" style="width:48px;height:48px;object-fit:contain;">
         <span style="margin-top: 6px; font-size: 0.75rem; color: #e5e7eb;">Premiere Pro</span>
       </div>
+      <h2 style="font-size: 1.5rem; margin-top: 10px; margin-bottom: 10px; color: #f9fafb;">🛠️ Tools &amp; security</h2>
       <!-- Security tools (emoji, but same visual size) -->
       <div style="display:flex;flex-direction:column;align-items:center;width:80px;">
         <span style="font-size:32px;line-height:1;">🛰️</span>
@@ -227,8 +233,8 @@
       Replace <code>YOUR_USERNAME</code> with your actual username.
     </p>
     <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%; border-radius: 12px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; border-radius: 12px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=adam-badri&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%; border-radius: 12px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-badri&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; border-radius: 12px;">
     </div>
   </div>
 
