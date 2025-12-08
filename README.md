@@ -104,9 +104,8 @@ I'm currently training as an **ethical hacker** (offensive security, CTFs, and p
 
 > May take a few minutes to activate.
 
-![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=adam-badri&show_icons=true&theme=tokyonight)
+![Adam Badri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-badri&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=adam-badri&layout=compact&theme=tokyonight)
 
 ---
 
