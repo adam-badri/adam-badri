@@ -63,7 +63,7 @@ I'm currently training as an **ethical hacker** (offensive security, CTFs, and p
 ### 🔐 Security Tools
 
 <p align="left">
-  <img src="https://icons8.com/icon/_58dGx6mfgNz/gps-antenna" width="48" height="48" /> nmap &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=_58dGx6mfgNz&format=png&color=000000" width="48" height="48" /> nmap &nbsp;&nbsp;
   <img src="https://img.icons8.com/emoji/48/shark-emoji.png" width="48" height="48" /> Wireshark &nbsp;&nbsp;
   <img src="https://img.icons8.com/emoji/48/shield-emoji.png" width="48" height="48" /> Burp Suite &nbsp;&nbsp;
   <img src="https://img.icons8.com/emoji/48/bomb-emoji.png" width="48" height="48" /> Metasploit &nbsp;&nbsp;
