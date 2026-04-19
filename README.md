@@ -34,7 +34,7 @@ I'm currently training as an **ethical hacker** (offensive security, CTFs, and p
 ## 💻 Programming Languages  
 
 
-<table cellspacing="10" border="0">
+<table style="border-collapse: collapse;" cellspacing="10">
     <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br/>Python</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/><br/>C</td>
@@ -52,7 +52,7 @@ I'm currently training as an **ethical hacker** (offensive security, CTFs, and p
 
 ## 🛠️ Tools & Technologies
 
-<table cellspacing="10" border="0">
+<table style="border-collapse: collapse;" cellspacing="10">
     <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/><br/>Linux</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/><br/>Git</td>
@@ -68,7 +68,7 @@ I'm currently training as an **ethical hacker** (offensive security, CTFs, and p
 
 ### 🔐 Security Tools
 
-<table cellspacing="10" border="0">
+<table style="border-collapse: collapse;" cellspacing="10">
     <tr>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=_58dGx6mfgNz&format=png&color=000000" width="48"/><br/>Nmap</td>
     <td align="center"><img src="https://img.icons8.com/emoji/48/shark-emoji.png" width="48"/><br/>Wireshark</td>
@@ -82,7 +82,7 @@ I'm currently training as an **ethical hacker** (offensive security, CTFs, and p
 
 ## 🤖 ML & Data
 
-<table cellspacing="10" border="0">
+<table style="border-collapse: collapse;" cellspacing="10">
     <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48"/><br/>Pytorch</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48"/><br/>Tensorflow</td>
