@@ -1,7 +1,7 @@
 
 #   Adam Badri
     
-**`Computer Science Student • Cybersecurity Enthusiast • Machine Learning Explorer`**
+**`Computer Science Student • Cybersecurity Enthusiast`**
     
 <p style="margin-top: 4px; font-size: 0.95rem; color: #6b7280;">
     I build small, focused projects in security, machine learning, and algorithms to learn by doing.
