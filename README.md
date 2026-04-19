@@ -33,55 +33,63 @@ I'm currently training as an **ethical hacker** (offensive security, CTFs, and p
 
 ## 💻 Programming Languages  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://img.icons8.com/ios-filled/100/000000/code.png" width="48" height="48" />&nbsp;
-</p>
 
+<table cellspacing="10" border="0">
+    <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br/>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/><br/>C</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/><br/>C++</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/><br/>Java</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/><br/>Html5</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/><br/>CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="48"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="48"/><br/>Haskell</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/100/000000/code.png" width="48"/><br/>Assembly</td>
+
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tools & Technologies
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="48" height="48" />&nbsp;
-</p>
+<table cellspacing="10" border="0">
+    <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/><br/>Linux</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/><br/>Git</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/><br/>Docker</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/><br/>Vscode</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48"/><br/>Intellij</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="48"/><br/>Photoshop</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="48"/><br/>Illustrator</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="48"/><br/>Premierepro</td>
+
+  </tr>
+</table>
 
 ### 🔐 Security Tools
 
-<p align="left">
-  <img src="https://img.icons8.com/?size=100&id=_58dGx6mfgNz&format=png&color=000000" width="48" height="48" /> nmap &nbsp;&nbsp;
-  <img src="https://img.icons8.com/emoji/48/shark-emoji.png" width="48" height="48" /> Wireshark &nbsp;&nbsp;
-  <img src="https://img.icons8.com/emoji/48/shield-emoji.png" width="48" height="48" /> Burp Suite &nbsp;&nbsp;
-  <img src="https://img.icons8.com/emoji/48/bomb-emoji.png" width="48" height="48" /> Metasploit &nbsp;&nbsp;
-  <img src="https://img.icons8.com/emoji/48/spider-emoji.png" width="48" height="48" /> SpiderFoot &nbsp;&nbsp;
-</p>
+<table cellspacing="10" border="0">
+    <tr>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=_58dGx6mfgNz&format=png&color=000000" width="48"/><br/>Nmap</td>
+    <td align="center"><img src="https://img.icons8.com/emoji/48/shark-emoji.png" width="48"/><br/>Wireshark</td>
+    <td align="center"><img src="https://img.icons8.com/emoji/48/shield-emoji.png" width="48"/><br/>Burp Suite</td>
+    <td align="center"><img src="https://img.icons8.com/emoji/48/bomb-emoji.png" width="48"/><br/>Metasploit</td>
+    <td align="center"><img src="https://img.icons8.com/emoji/48/spider-emoji.png" width="48"/><br/>SpiderFoot</td>
+  </tr>
+</table>
 
 ---
 
 ## 🤖 ML & Data
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" />&nbsp;
-</p>
-
+<table cellspacing="10" border="0">
+    <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48"/><br/>Pytorch</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48"/><br/>Tensorflow</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br/>Scikitlearn</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/><br/>Pandas</td>
+  </tr>
+</table>
 ---
 
 ## 🧠 Soft Skills & Languages
